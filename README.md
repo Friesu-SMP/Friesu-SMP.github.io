@@ -1,4 +1,4 @@
-<p align="right">![Friesu SMP Logo](https://github.com/Friesu-SMP/Friesu-SMP.github.io/blob/main/Friesd.png?raw=true)</p>
+![Friesu SMP Logo](https://github.com/Friesu-SMP/Friesu-SMP.github.io/blob/main/Friesd.png?raw=true)
 # Friesu SMP Website
 this is website of friesu smp
 
