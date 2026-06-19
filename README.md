@@ -8,4 +8,4 @@ Java IP: friesusmp.aternos.me
 
 the reason this is the main website for the other smps is because friesu was the first smp to make a website
 
-###### [Happymon](https://friesu-smp.github.io/)  |   [Discord Server](https://discord.gg/5Pv4KCD23R)
+###### [Happymon](https://friesu-smp.github.io/happymon/)  |   [Discord Server](https://discord.gg/5Pv4KCD23R)
