@@ -9,6 +9,3 @@ Java IP: friesusmp.aternos.me
 the reason this is the main website for the other smps is because friesu was the first smp to make a website
 
 ###### [Happymon](https://friesu-smp.github.io/happymon/)  |   [Discord Server](https://discord.gg/5Pv4KCD23R)
-
-
-<div class="miiverse-post" lang="en" data-miiverse-cite="https://miiverse.projectrose.cafe/posts/AY0xAABBIHEsA4IxlMNfSA" data-miiverse-embedded-version="1"><noscript>You must have JavaScript enabled on your device to view Miiverse posts that have been embedded in a website. <a class="miiverse-post-link" href="https://miiverse.projectrose.cafe/posts/AY0xAABBIHEsA4IxlMNfSA">View post in Miiverse.</a></noscript></div><script async src="https://miiverse.projectrose.cafe/js/embedded.min.js" charset="utf-8"></script>
